@@ -1,0 +1,52 @@
+  *{
+  	margin: 0;
+  	padding: 0;
+  }
+  body{
+  	margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  /*load imagen*/
+  #preload{
+  position: fixed;
+  left: 48%;
+  top:30%;
+  width: 64px;
+  height: 64px;
+  z-index: 9999;
+  display: none;
+
+}
+
+/*******************************************************
+
+archivo mostrar.php
+*/
+
+
+#titulo{
+  text-align: center;
+}
+
+#tabladatos{
+   width: 70%;
+     margin-left: 15%;
+     margin-right: 15%;
+     text-align: center;
+}
+
+#salir{
+ margin-right: 90%;
+}
+
+#captchacss{
+
+   width: 100%;
+
+}
+
+
+
+
