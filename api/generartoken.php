@@ -1,6 +1,6 @@
 <?php
 use Firebase\JWT\JWT;
-
+// generar token
 
 function generarToken(){
   $time = time();
