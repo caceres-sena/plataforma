@@ -1,6 +1,7 @@
 <?php
 use Firebase\JWT\JWT;
 // generar token
+// cambiar comentario
 
 function generarToken(){
   $time = time();
